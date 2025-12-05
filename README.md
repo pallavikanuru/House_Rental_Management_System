@@ -1,30 +1,60 @@
 # 🏠 House Rental Management System
 
 ## 📖 Overview
-The **House Rental Management System** is a full-stack web application designed to simplify property rental management.  
-It integrates **web technologies** with **database systems** and applies **Content-Based Image Retrieval (CBIR)** to allow users to search for properties using images.  
-This project demonstrates skills in **frontend design, backend development, database management, and computer vision concepts**.
+A full-stack web application designed to simplify property rental management.  
+It integrates web technologies with database systems and applies Content-Based Image Retrieval (CBIR) to allow users to search for properties using images.
 
 ---
 
 ## ⚙️ Technologies Used
-- 🌐 **Frontend:** HTML, CSS, JavaScript  
-- 🖥️ **Backend:** PHP  
-- 🗄️ **Database:** MySQL  
-- 🔧 **Server:** Apache2 Server  
+- 🌐 HTML, CSS, JavaScript  
+- 🖥️ PHP  
+- 🗄️ MySQL  
+- 🔧 Apache2 Server  
 
 ---
 
 ## ✨ Features
-- 👤 User registration and login system  
+- 👤 User registration and login  
 - 🏘️ Property listing and management  
 - 🔍 Image-based property search using CBIR  
 - 📊 Admin dashboard for property management  
-- 📂 Database-driven backend for storing property details  
 
 ---
 
 ## 🚀 Setup Instructions
 1. Clone the repository  
 2. Import the SQL database file  
-3. Run on Apache
+3. Run on Apache2 server  
+4. Access via `localhost` in your browser  
+
+---
+
+## 📸 Visual Demo
+
+### Login Page
+![Login Page Screenshot](screenshots/login.png)
+
+### Admin Dashboard
+![Dashboard Screenshot](screenshots/dashboard.png)
+
+---
+
+## 🔮 Future Enhancements
+- 💳 Payment gateway integration  
+- 🤖 ML models for improved image retrieval  
+- 📱 Mobile app support  
+
+---
+
+## 🧠 Extended Description
+This project showcases full-stack development and computer vision integration.  
+CBIR allows users to search properties using images, enhancing accuracy and user experience.  
+It reflects strong skills in frontend/backend development, database design, and visual data processing.
+
+---
+
+## 📌 Author
+**Pallavi Kanuru**  
+[LinkedIn](https://www.linkedin.com/in/pallavi-kanuru)  
+[GitHub](https://github.com/pallavikanuru)

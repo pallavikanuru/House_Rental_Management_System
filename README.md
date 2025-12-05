@@ -1,26 +1,30 @@
-# House Rental Management System
+# 🏠 House Rental Management System
 
-## Description
-A web-based platform for managing house rentals with content-based image retrieval.  
-Built as an academic project to demonstrate database management and computer vision concepts.
+## 📖 Overview
+The **House Rental Management System** is a full-stack web application designed to simplify property rental management.  
+It integrates **web technologies** with **database systems** and applies **Content-Based Image Retrieval (CBIR)** to allow users to search for properties using images.  
+This project demonstrates skills in **frontend design, backend development, database management, and computer vision concepts**.
 
-## Technologies
-- HTML, CSS, JavaScript, PHP
-- MySQL (Database)
-- Apache2 Server
+---
 
-## Features
-- User registration and login
-- Property listing and search
-- Image-based query for rentals
-- Admin dashboard for property management
+## ⚙️ Technologies Used
+- 🌐 **Frontend:** HTML, CSS, JavaScript  
+- 🖥️ **Backend:** PHP  
+- 🗄️ **Database:** MySQL  
+- 🔧 **Server:** Apache2 Server  
 
-## Setup
-1. Clone the repository
-2. Import the SQL database file
-3. Run on Apache2 server
-4. Access via localhost in browser
+---
 
-## Future Improvements
-- Add payment gateway integration
-- Enhance image retrieval with ML models
+## ✨ Features
+- 👤 User registration and login system  
+- 🏘️ Property listing and management  
+- 🔍 Image-based property search using CBIR  
+- 📊 Admin dashboard for property management  
+- 📂 Database-driven backend for storing property details  
+
+---
+
+## 🚀 Setup Instructions
+1. Clone the repository  
+2. Import the SQL database file  
+3. Run on Apache
